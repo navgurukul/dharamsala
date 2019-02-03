@@ -1,5 +1,5 @@
 # Mentor Tree
-## Diwakar
+# Diwakar
 - Satyam
 - Akhil
 - Pralhad
@@ -9,7 +9,7 @@
 ## Satyam
 - Anurag
 - Abhijeet
-## Anurag
+## Anurag(leave)
 - Yogesh
 ## Akhil
 - Nitesh
@@ -57,7 +57,7 @@
 - Sandeep
 - Kapil
 - Aman Jha
-## Naresh ### (leave)
+## Naresh(leave)
 - Anoop 
 - Vishwanath
 - JaiPrakash
