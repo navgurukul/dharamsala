@@ -1,11 +1,11 @@
 # Mentor Tree
 ## Diwakar
--Satyam
--Akhil
--Pralhad
--Pavan
--Vishal
--Sanjeev
+- Satyam
+- Akhil
+- Pralhad
+- Pavan
+- Vishal
+- Sanjeev
 
 ## Satyam
 -Anurag
