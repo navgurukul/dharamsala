@@ -6,13 +6,11 @@
 - Pavan
 - Vishal
 - Sanjeev
-
 ## Satyam
 - Anurag
 - Abhijeet
-- Anurag
+## Anurag
 - Yogesh
-
 ## Akhil
 - Nitesh
 - Shubham
@@ -44,14 +42,14 @@
 - Jai Kishan
 - Anand
 - Ajay Udayan
-## Pratik
+## Pratik(leave)
 - Prakash
 - Shahid
 - Mahendra
-## Jai Kishan
+## Jai Kishan(leave)
 - Hemant
 - Sourav
-## Sanjeev
+## Sanjeev(leave)
 - Rahul Kumar
 - Jagannath
 - Naresh
@@ -59,7 +57,7 @@
 - Sandeep
 - Kapil
 - Aman Jha
-## Naresh
+## Naresh ### (leave)
 - Anoop 
 - Vishwanath
 - JaiPrakash
