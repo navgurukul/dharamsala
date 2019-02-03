@@ -8,58 +8,58 @@
 - Sanjeev
 
 ## Satyam
--Anurag
--Abhijeet
--Anurag
--Yogesh
+- Anurag
+- Abhijeet
+- Anurag
+- Yogesh
 
 ## Akhil
--Nitesh
--Shubham
--Prashant
--Tarun
+- Nitesh
+- Shubham
+- Prashant
+- Tarun
 ## Nitesh
--Bhavnesh
--Sushant
+- Bhavnesh
+- Sushant
 ## Pralhad
--Yogendra
--Aman Sharma
--Rohit
--Chirag
+- Yogendra
+- Aman Sharma
+- Rohit
+- Chirag
 ## Yogendra
--Aijaj
--Aman Sharma
--Yogendra Meena
--Prince
+- Aijaj
+- Aman Sharma
+- Yogendra Meena
+- Prince
 ## Chirag
--Ranjeet
+- Ranjeet
 ## Pavan
--Saquib
--Pradeep
--Sunil
+- Saquib
+- Pradeep
+- Sunil
 ## Sunil
--Aadil
+- Aadil
 ## Vishal
--Pratik
--Jai Kishan
--Anand
--Ajay Udayan
+- Pratik
+- Jai Kishan
+- Anand
+- Ajay Udayan
 ## Pratik
--Prakash
--Shahid
--Mahendra
+- Prakash
+- Shahid
+- Mahendra
 ## Jai Kishan
--Hemant
--Sourav
+- Hemant
+- Sourav
 ## Sanjeev
--Rahul Kumar
--Jagannath
--Naresh
+- Rahul Kumar
+- Jagannath
+- Naresh
 ## Jagannath
--Sandeep
--Kapil
--Aman Jha
+- Sandeep
+- Kapil
+- Aman Jha
 ## Naresh
--Anoop 
--Vishwanath
--JaiPrakash
+- Anoop 
+- Vishwanath
+- JaiPrakash
