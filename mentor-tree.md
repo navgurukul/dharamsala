@@ -3,61 +3,43 @@
 - Satyam
 - Akhil
 - Pralhad
-- Pavan
 - Vishal
 - Sanjeev
+- Rahul
 ## Satyam
 - Anurag
 - Abhijeet
-## Anurag(leave)
-- Yogesh
+## Anurag
 ## Akhil
 - Nitesh
-- Shubham
-- Prashant
+- Bhavnesh
 - Tarun
 ## Nitesh
-- Bhavnesh
 - Sushant
 ## Pralhad
 - Yogendra
-- Aman Sharma
 - Rohit
 - Chirag
 ## Yogendra
 - Aijaj
 - Aman Sharma
-- Yogendra Meena
 - Prince
-## Chirag
-- Ranjeet
-## Pavan
-- Saquib
-- Pradeep
-- Sunil
 ## Sunil
 - Aadil
 ## Vishal
-- Pratik
-- Jai Kishan
-- Anand
-- Ajay Udayan
-## Pratik(leave)
+- Sunil 
+- Pradeep
 - Prakash
-- Shahid
-- Mahendra
-## Jai Kishan(leave)
-- Hemant
-- Sourav
-## Sanjeev(leave)
+- Ajay Udayan
+## Sanjeev
 - Rahul Kumar
-- Jagannath
-- Naresh
+- Shubham
 ## Jagannath
 - Sandeep
-- Kapil
 - Aman Jha
-## Naresh(leave)
 - Anoop 
-- Vishwanath
-- JaiPrakash
+## Rahul
+- Shahid
+- Saquib
+- Anand
+- Yogesh
