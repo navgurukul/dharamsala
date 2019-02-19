@@ -1,6 +1,6 @@
 # Mentor Tree
 
-# Diwakar
+# Diwakar / Amar / Rishabh
 - Satyam
 - Akhil
 - Pralhad
