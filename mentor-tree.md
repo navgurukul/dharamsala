@@ -7,38 +7,38 @@
 - Sanjeev
 - Rahul
 ## Satyam
+- Anoop 
 - Jagan
 - Anurag
-- Abhijeet
 ## Akhil
 - Nitesh
 - Bhavnesh
 - Tarun
 ## Pralhad
+- Sandeep
+- Shubham
 - Yogendra
-- Rohit
-- Chirag
-## Yogendra
 - Ranjeet
+## Yogendra
+- Rohit
 - Aman jha
 - Ajay Udayan
 - Prince
 ## Sunil
 - Aadil
 ## Vishal
+- Abhijeet
 - Sunil
 - Pradeep
-- Aman sharma 
 - Prakash
 ## Sanjeev
-- Shubham
-- Sandeep
+- Chirag
 - shushant
 - sanjay
+- Aman sharma 
 ## Jagannath
 - Rahul Kumar
 - Aijaj
-- Anoop 
 ## Rahul
 - Shahid
 - Saquib
