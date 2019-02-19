@@ -32,10 +32,10 @@
 - Prakash
 - Ajay Udayan
 ## Sanjeev
-- Rahul Kumar
 - Shubham
-## Jagannath
 - Sandeep
+## Jagannath
+- Rahul Kumar
 - Aman Jha
 - Anoop 
 ## Rahul
