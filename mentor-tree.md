@@ -14,7 +14,6 @@
 - Anurag
 
 # Akhil
-- Nitesh
 - Bhavnesh
 - Tarun
 
@@ -50,7 +49,10 @@
 - Aijaj
 
 # Rahul
-- Shahid
 - Saquib
 - Anand
 - Yogesh
+
+# Saquib
+- Shahid
+
