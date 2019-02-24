@@ -1,58 +1,64 @@
-# Mentor Tree
-
-# Diwakar / Amar / Rishabh
-- Satyam
+## Rishabh
 - Akhil
 - Pralhad
+- Rahul Joshi
 - Vishal
-- Sanjeev
-- Rahul
-
-# Satyam
-- Anoop 
-- Jagan
-- Anurag
-
-# Akhil
-- Bhavnesh
-- Tarun
-
-# Pralhad
-- Sandeep
-- Shubham
+- Satyam
+- Pavan
 - Yogendra
-- Ranjeet
 
-# Yogendra
-- Rohit
-- Aman jha
-- Ajay Udayan
-- Prince
-
-# Sunil
-- Aadil
-
-# Vishal
-- Abhijeet
-- Sunil
+## Akhil
 - Pradeep
-- Prakash
+- Sanjeev
 
-# Sanjeev
-- Chirag
-- shushant
-- Sanjay
-- Aman sharma 
+## Pralhad
+- Anoop
 
-# Jagannath
-- Rahul Kumar
-- Aijaj
+## Rahul Joshi
+- Anand Patel
 
-# Rahul
-- Saquib
-- Anand
+## Vishal
 - Yogesh
 
-# Saquib
+## Satyam
+- Saquib
+- Bhavnesh
+
+## Pavan
+(Not on Campus)
+
+## Yogendra
+- Jagan
+
+## Bhavnesh
+- Prince
+- Shubham
+
+## Yogesh
+- Ajay Udhyan
+- Aman Sharma
+- Rohit
+
+## Anand
+- Sandeep
+- Rahul Kumar
+
+## Pradeep
+- Aadil
 - Shahid
 
+## Saquib
+- Sanjay
+- Aman jha 	
+
+## Jagan
+- Sunil
+- Abhijeet
+
+## Sanjeev
+- Shushant
+- Prakash
+
+## Anoop
+- Ranjeet
+- Aijaj
