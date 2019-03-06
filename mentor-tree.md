@@ -1,7 +1,7 @@
 ### Javascript Mentor-Tree
 ## Rishabh
 - Akhil
-- Pralhad
+- Sanjeev
 - Rahul Joshi
 - Vishal
 
@@ -10,15 +10,15 @@
 - Yogesh
 - Naresh
 
-## Pralhad
+## Sanjeev
 - Anoop
-- Saquib
+- Jagannath
 - Anand
 
 ## Rahul Joshi
 - Pavan
 - Pradeep
-- Sanjeev
+- Saquib
 
 ## Vishal
 - Satyam
