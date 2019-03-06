@@ -1,29 +1,29 @@
 ### Javascript Mentor-Tree
-## Rishabh
+## Rishabh 
 - Akhil
-- Sanjeev
-- Rahul Joshi
+- Rahul
 - Vishal
+- Pralhad
 
 ## Akhil
 - Bhavnesh
 - Yogesh
 - Naresh
 
-## Sanjeev
-- Anoop
-- Jagannath
-- Anand
-
-## Rahul Joshi
-- Pavan
+## Rahul
 - Pradeep
-- Saquib
+- Pavan
+- Sanjeev
 
 ## Vishal
-- Satyam
+- Satyam 
 - Yogendra
 - Jagannath
+
+## Pralhad
+- Saquib
+- Anand
+- Anoop
 
 ### Flask Mentor-Tree
 ## Rishabh
