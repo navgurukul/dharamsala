@@ -1,65 +1,55 @@
+### Javascript Mentor-Tree
 ## Rishabh
 - Akhil
 - Pralhad
 - Rahul Joshi
 - Vishal
-- Satyam
-- Pavan
-- Yogendra
 
 ## Akhil
-- Pradeep
-- Sanjeev
+- Bhavnesh
+- Yogesh
+- Naresh
 
 ## Pralhad
 - Anoop
+- Saquib
+- Anand
 
 ## Rahul Joshi
-- Anand Patel
+- Pavan
+- Pradeep
+- Sanjeev
 
 ## Vishal
-- Yogesh
+- Satyam
+- Yogendra
+- Jagannath
 
-## Satyam
-- Saquib
-- Bhavnesh
-
-## Pavan
-(Not on Campus)
-
-## Yogendra
-- Jagan
-
-## Bhavnesh
-- Prince
-- Shubham
-
-## Yogesh
-- Ajay Udhyan
-- Aman Sharma
-- Rohit
-
-## Anand
-- Sandeep
-- Rahul Kumar
-
-## Pradeep
-- Aadil
-- Shahid
-
-## Saquib
-- Sanjay
-- Aman jha 	
-
-## Jagan
+### Flask Mentor-Tree
+## Rishabh
 - Sunil
-- Abhijeet
+- Ajay
 - Anurag
+- Abhijeet
 
-## Sanjeev
-- Shushant
-- Prakash
-
-## Anoop
-- Ranjeet
+## Sunil
+- Sanjay
 - Aijaj
+- Rahul
+- Amanjha
+
+## Anurag
+- Rohit
+- Shubham
+- Aman sharma
+- Shushant
+
+## Ajay
+- Prince
+- Sandeep
+- Praksh
+
+## Abhijeet
+- Aadil
+- Ranjeet
+- Shahid
