@@ -11,7 +11,10 @@
 ## Akhil
 - Bhavnesh
 - Yogesh
-- Naresh
+- Jagan
+
+## Jagan
+- Sandeep
 
 ## Bhavnesh
 - Shubham
@@ -32,13 +35,10 @@
 
 ## Vishal
 - Anurag
-- Jagannath
+- Naresh
 
 ## Anurag
 - Aadil
-
-## Jagan
-- Sandeep 
 
 
 ## Pralhad
