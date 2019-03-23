@@ -2,44 +2,39 @@
 
 ## Rishabh 
 - Akhil
-- Rahul
 - Vishal
 - Pralhad
 - Satyam
 - Yogendra
 
 ## Akhil
-- Bhavnesh
-- Yogesh
+- Pavan
+- Bavnesh
 - Jagan
+
+## Pavan 
+- Aman Sharma
+- Prince
+
+## Bhavnesh
+- Tarun
 
 ## Jagan
 - Sandeep
 
-## Bhavnesh
-- Shubham
-
-## Yogesh
-- Aman jha
-
-## Rahul
-- Pradeep
-- Pavan
-- Sanjeev
-
-## Pradeep 
-- Sahid
-
-## Pavan
-- prince 
-
 ## Vishal
 - Anurag
 - Naresh
+- pradeep
+
+## Pradeep 
+- sunil
+
+## Sunil
+- Sahid
 
 ## Anurag
 - Aadil
-
 
 ## Pralhad
 - Saquib
@@ -58,16 +53,25 @@
 - jai
 
 ## Ajay 
-- Ranjeet
+- Shushant
 
 ## Abhijeet
 - Prakash
 
 ## jai
-- Shushant
+- Rahul
 
 ## Yogendra
-- Sanjay
-- Rahul
-- Aman sharma
+- Sanjeev
+- Pratik 
+- Yogesh
+
+## Yogesh
+- Aman jha
+
+## Sanjeev 
+- Sanjay 
+
+## Pratik 
+- Shubham 
 
