@@ -1,11 +1,17 @@
 # Mentorship tree
 
-## Rishabh 
-- Akhil
+## Akhil
+- Yogendra
+
+## Yogendra
 - Vishal
+
+## Vishal
 - Pralhad
 - Satyam
-- Yogendra
+
+## Pralhad
+- Akhil
 
 ## Akhil
 - Pavan
