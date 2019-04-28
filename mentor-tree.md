@@ -51,12 +51,9 @@
 - Rohit
 
 ## Satyam 
-- 
+- Shushant
 - Abijeet
 - jai
-
-## Ajay 
-- Shushant
 
 ## Abhijeet
 - Prakash
