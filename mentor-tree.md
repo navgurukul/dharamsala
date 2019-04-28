@@ -21,6 +21,7 @@
 ## Pavan 
 - Aman Sharma
 - Prince
+- Sanjay
 
 ## Bhavnesh
 - Tarun
@@ -31,9 +32,6 @@
 ## Vishal
 - Anurag
 - Naresh
-- pradeep
-
-## Pradeep 
 - sunil
 
 ## Sunil
@@ -41,20 +39,19 @@
 
 ## Anurag
 - Aadil
+- Kapil
 
 ## Pralhad
 - Saquib
 - Anand
 - Anoop
 
-## Anoop 
-- Rohit
-
 ## Saqiub
 - Aijaj
+- Rohit
 
 ## Satyam 
-- Ajay 
+- 
 - Abijeet
 - jai
 
@@ -63,20 +60,18 @@
 
 ## Abhijeet
 - Prakash
+- Yogendra Meena
 
 ## jai
 - Rahul
 
 ## Yogendra
-- Sanjeev
+- Hemant
 - Pratik 
 - Yogesh
 
 ## Yogesh
 - Aman jha
-
-## Sanjeev 
-- Sanjay 
 
 ## Pratik 
 - Shubham 
