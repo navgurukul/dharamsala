@@ -19,6 +19,10 @@
 ## Jagan
 - Sandeep
 - Sunil
+- Anand
+
+## Anand
+- Tarun
 
 ## Anurag
 - Aadil
@@ -27,9 +31,6 @@
 ## Saqiub
 - Aijaj
 - Rahul
-
-## Anand
-- Tarun
 
 ## Satyam 
 - Shushant
@@ -45,6 +46,7 @@
 - Hemant
 - Pratik 
 - Yogesh
+- Ajay
 
 ## Yogesh
 - Aman jha
