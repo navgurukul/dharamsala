@@ -1,66 +1,45 @@
 # Mentorship tree
 
-## Akhil
-- Yogendra
-
-## Yogendra
-- Vishal
-
-## Vishal
-- Pralhad
-- Satyam
-
 ## Pralhad
 - Akhil
+- Yogendra
+- Satyam
 
 ## Akhil
 - Pavan
-- Bavnesh
 - Jagan
+- Anurag
 
 ## Pavan 
 - Aman Sharma
 - Prince
 - Sanjay
-
-## Bhavnesh
-- Tarun
+- Abhijeet
 
 ## Jagan
 - Sandeep
-
-## Vishal
-- Anurag
-- Naresh
-- sunil
-
-## Sunil
-- Sahid
+- Sunil
 
 ## Anurag
 - Aadil
 - Kapil
 
-## Pralhad
-- Saquib
-- Anand
-- Anoop
-
 ## Saqiub
 - Aijaj
-- Rohit
+- Rahul
+
+## Anand
+- Tarun
 
 ## Satyam 
 - Shushant
-- Abijeet
-- jai
+- Naresh
+- Rohit
+- Sanjeev
 
 ## Abhijeet
 - Prakash
 - Yogendra Meena
-
-## jai
-- Rahul
 
 ## Yogendra
 - Hemant
