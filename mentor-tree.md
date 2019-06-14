@@ -8,49 +8,47 @@
 ## Akhil
 - Pavan
 - Jagan
-- Anurag
+- Naresh
 
 ## Pavan 
-- Aman Sharma
 - Prince
-- Sanjay
-- Abhijeet
+- Prakash
+- Sandeep
 
 ## Jagan
-- Sandeep
-- Sunil
+- Aijaj
 - Anand
+- Sanjay
 
 ## Anand
-- Tarun
-
-## Anurag
 - Aadil
-- Kapil
-
-## Saqiub
-- Aijaj
-- Rahul
-
-## Satyam 
-- Shushant
-- Naresh
-- Rohit
-- Sanjeev
-
-## Abhijeet
-- Prakash
 - Yogendra Meena
 
+## Satyam 
+- Tarun
+- Sanjeev
+- Yogesh
+- Rahul
+
+## Vishal
+- Abhijeet
+
 ## Yogendra
+- Rohit
 - Hemant
 - Pratik 
-- Yogesh
-- Ajay
 
 ## Yogesh
 - Aman jha
+- Kapil
+- vishal modi
 
 ## Pratik 
-- Shubham 
+- Tapas
+- Pavan kumar
+- Prabhakar
 
+## Sanjeev
+- Dhananjay
+- Praveen
+- Akhilesh
