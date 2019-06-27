@@ -6,6 +6,7 @@
 - Satyam
 
 ## Akhil
+- Saquib
 - Pavan
 - Jagan
 - Anand
