@@ -44,7 +44,9 @@
 - vishal modi
 
 ## Pratik 
+- Pranthaman
 - Prabhakar
+- Kritiv
 
 ## Sanjeev
 - Prince
