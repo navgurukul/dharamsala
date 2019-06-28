@@ -19,6 +19,7 @@
 ## Jagan
 - Rohit
 - Sanjay
+- Vivek
 
 ## Anand
 - Praveen
@@ -28,6 +29,7 @@
 ## Satyam 
 - Rahul
 - Akhilesh
+- Rahit
 
 ## Yogendra
 - Kapil
