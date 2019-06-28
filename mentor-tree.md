@@ -12,7 +12,8 @@
 - Anand
 - Naresh
 
-## Prakash 
+## Prakash
+- Rahit
 - Tapas
 - Dhananjay
 
@@ -20,24 +21,25 @@
 - Rohit
 - Sanjay
 - Vivek
+- Pratik 
 
 ## Anand
 - Praveen
 - Aadil
-- Sandeep
+- Akhilesh
 
 ## Satyam 
 - Rahul
-- Akhilesh
-- Rahit
+- Sandeep
 
 ## Yogendra
+- Aijaj
 - Kapil
 - Aman jha
-- Pratik 
 
 ## Yogesh
-- Aijaj
+- Yousuf
+- Tarique
 - Pavan kumar
 - vishal modi
 
