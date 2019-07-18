@@ -1,56 +1,51 @@
 # Mentorship tree
 
 ## Pralhad
-- Akhil
+- Jagan
 - Yogendra
 - Satyam
-
-## Akhil
 - Saquib
-- Pavan
-- Jagan
-- Anand
-- Naresh
+
+## Saquib
+- Prakash
+- Yogesh
+- Rohit
 
 ## Prakash
 - Rahit
 - Tapas
-- Dhananjay
+- Vivek
 
 ## Jagan
-- Rohit
 - Sanjay
-- Vivek
 - Pratik 
+- Paranthaman
+- Yogesh New
 
 ## Anand
 - Praveen
 - Aadil
 - Akhilesh
+- Ajit
 
 ## Satyam 
 - Rahul
 - Sandeep
+- Prince
 
 ## Yogendra
 - Aijaj
 - Kapil
-- Aman jha
+- Anand
 
 ## Yogesh
 - Yousuf
 - Tarique
-- Pavan kumar
-- vishal modi
+- Pavan
+- Vishal
 
 ## Pratik 
-- Pranthaman
 - Prabhakar
-- Kritiv
-
-## Sanjeev
-- Prince
-- Prakash
-- Yogesh
-
-
+- Krithiv
+- Shahid
+- Jai Prakash
