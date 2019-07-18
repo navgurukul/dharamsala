@@ -19,14 +19,12 @@
 ## Jagan
 - Sanjay
 - Pratik 
-- Paranthaman
-- Yogesh New
+- Yousuf
 
 ## Anand
 - Praveen
 - Aadil
 - Akhilesh
-- Ajit
 
 ## Satyam 
 - Rahul
@@ -39,13 +37,21 @@
 - Anand
 
 ## Yogesh
-- Yousuf
 - Tarique
-- Pavan
 - Vishal
+- Paranthaman
 
 ## Pratik 
 - Prabhakar
-- Krithiv
 - Shahid
 - Jai Prakash
+
+## Aijaj
+- Pavan
+- Yogesh New
+
+## Rohit
+- Ajit
+
+## Rahul
+- Krithiv
