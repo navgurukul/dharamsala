@@ -13,7 +13,7 @@
 
 ## Prakash
 - Rahit
-- Tapas
+- Aadil
 - Vivek
 
 ## Jagan
@@ -23,7 +23,6 @@
 
 ## Anand
 - Praveen
-- Aadil
 - Akhilesh
 
 ## Satyam 
@@ -55,3 +54,7 @@
 
 ## Rahul
 - Krithiv
+- Dipesh
+
+## Prince
+- Tapas
