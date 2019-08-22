@@ -10,6 +10,7 @@
 - Prakash
 - Yogesh
 - Rohit
+- Aman
 
 ## Prakash
 - Rahit
@@ -18,12 +19,13 @@
 
 ## Jagan
 - Sanjay
-- Pratik 
+- Bhavnesh
 - Yousuf
 
 ## Anand
 - Praveen
 - Akhilesh
+- Pratik
 
 ## Satyam 
 - Rahul
@@ -48,15 +50,19 @@
 ## Aijaj
 - Pavan
 - Yogesh New
+- Himanshu
 
 ## Rohit
 - Ajit
 - Biju
+- Shabid Khan
 
 ## Rahul
 - Krithiv
 - Dipesh
+- Raushan
 
 ## Prince
 - Tapas
 - Aakash
+- Rakesh kumar
