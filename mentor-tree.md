@@ -7,45 +7,31 @@
 - Saquib
 
 ## Saquib
-- Prakash
-- Yogesh
-- Rohit
+- Bhavnesh
 - Aman
-
-## Prakash
-- Rahit
-- Aadil
-- Vivek
 
 ## Jagan
 - Sanjay
-- Bhavnesh
 - Yousuf
 
 ## Anand
-- Praveen
+- Prabhakar
 - Akhilesh
-- Pratik
+- Vivek
 
 ## Satyam 
-- Rahul
-- Sandeep
 - Prince
+- Aadil
 
 ## Yogendra
-- Aijaj
 - Kapil
 - Anand
+- Shahid
 
 ## Yogesh
 - Tarique
-- Vishal
 - Paranthaman
-
-## Pratik 
-- Prabhakar
-- Shahid
-- Jai Prakash
+- Dipesh
 
 ## Aijaj
 - Pavan
@@ -59,10 +45,16 @@
 
 ## Rahul
 - Krithiv
-- Dipesh
 - Raushan
 
 ## Prince
 - Tapas
 - Aakash
+
+## Sanjay
+- Jai Prakash
 - Rakesh kumar
+
+## Aadil
+- Vishal
+- Rahit
