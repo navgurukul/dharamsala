@@ -1,60 +1,75 @@
 # Mentorship tree
 
 ## Pralhad
-- Jagan
-- Yogendra
-- Satyam
-- Saquib
-
-## Saquib
+- Naresh
+- Kapil
 - Bhavnesh
-- Aman
+- Rohit
 
 ## Jagan
-- Sanjay
-- Yousuf
-
-## Anand
-- Prabhakar
-- Akhilesh
-- Vivek
+- Aadil
+- Prakash
+- Aijaj
 
 ## Satyam 
+- Anand
 - Prince
-- Aadil
+- Rahul
 
 ## Yogendra
-- Kapil
-- Anand
-- Shahid
+- Pratik
+- Yogesh W.
+- Sanjay
 
-## Yogesh
+## Naresh
+- Kirthiv
+- Pawan
+
+## Kapil
+- Shivam
+- Roshan
+
+## Bhavnesh
+- Aman
+- Deepak
+
+## Anand
+- Jaiprakash
 - Tarique
-- Paranthaman
-- Dipesh
-
-## Aijaj
-- Pavan
-- Yogesh New
-- Himanshu
-
-## Rohit
-- Ajit
-- Biju
-- Shabid Khan
-
-## Rahul
-- Krithiv
-- Raushan
+- Rahit
 
 ## Prince
-- Tapas
-- Aakash
+- Riyaz
+- Akash
 
-## Sanjay
-- Jai Prakash
-- Rakesh kumar
+## Rahul
+- Biju
+- Akhilesh
 
 ## Aadil
+- Rakesh
+- Vivek
+
+## Prakash
+- Deepesh
+- Yogessh New
+
+## Aijaj
+- Tapas
+- Kumar
+- Shahid
+
+## Pratik
+- Ajith
+- Yousuf
+- Himanshu
+
+## Yogesh W.
+- Prabhakar
+- Paranthaman
+
+## Sanjay
+- Shabid
 - Vishal
-- Rahit
+
+
