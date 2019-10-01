@@ -18,7 +18,6 @@
 
 ## Yogendra
 - Pratik
-- Yogesh W.
 - Sanjay
 
 ## Naresh
@@ -51,6 +50,7 @@
 - Vivek
 
 ## Prakash
+- Atul
 - Deepesh
 - Yogessh New
 
@@ -64,7 +64,8 @@
 - Yousuf
 - Himanshu
 
-## Yogesh W.
+## Rohit
+- Arjun
 - Prabhakar
 - Paranthaman
 
