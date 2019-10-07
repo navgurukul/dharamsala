@@ -23,6 +23,8 @@
 ## Naresh
 - Kirthiv
 - Pawan
+- Rakesh
+- Vivek
 
 ## Kapil
 - Shivam
@@ -44,10 +46,6 @@
 ## Rahul
 - Biju
 - Akhilesh
-
-## Aadil
-- Rakesh
-- Vivek
 
 ## Prakash
 - Atul
