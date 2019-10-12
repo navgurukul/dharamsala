@@ -1,7 +1,6 @@
 # Mentorship tree
 
 ## Pralhad
-- Naresh
 - Kapil
 - Bhavnesh
 - Rohit
@@ -24,7 +23,6 @@
 - Kirthiv
 - Pawan
 - Rakesh
-- Vivek
 
 ## Kapil
 - Shivam
@@ -47,11 +45,6 @@
 - Biju
 - Akhilesh
 
-## Prakash
-- Atul
-- Deepesh
-- Yogessh New
-
 ## Aijaj
 - Tapas
 - Kumar
@@ -60,7 +53,8 @@
 ## Pratik
 - Ajith
 - Yousuf
-- Himanshu
+- Vivek
+- Yogessh New
 
 ## Rohit
 - Arjun
@@ -70,5 +64,11 @@
 ## Sanjay
 - Shabid
 - Vishal
+
+## Vivek
+- Atul
+- Himanshu
+- Deepesh
+- Mohit
 
 
