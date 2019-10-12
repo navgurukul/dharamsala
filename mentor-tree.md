@@ -9,6 +9,7 @@
 - Aadil
 - Prakash
 - Aijaj
+- Vivek
 
 ## Satyam 
 - Anand
@@ -19,18 +20,15 @@
 - Pratik
 - Sanjay
 
-## Naresh
-- Kirthiv
-- Pawan
-- Rakesh
-
 ## Kapil
 - Shivam
 - Roshan
+- Rakesh
 
 ## Bhavnesh
 - Aman
 - Deepak
+- Kirthiv
 
 ## Anand
 - Jaiprakash
@@ -40,6 +38,7 @@
 ## Prince
 - Riyaz
 - Akash
+- Pawan
 
 ## Rahul
 - Biju
@@ -53,7 +52,6 @@
 ## Pratik
 - Ajith
 - Yousuf
-- Vivek
 - Yogessh New
 
 ## Rohit
@@ -64,11 +62,13 @@
 ## Sanjay
 - Shabid
 - Vishal
+- Deepesh
 
 ## Vivek
 - Atul
 - Himanshu
-- Deepesh
+
+## Shahid
 - Mohit
 
 
