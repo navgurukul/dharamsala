@@ -8,7 +8,6 @@
 ## Jagan
 - Aadil
 - Prakash
-- Aijaj
 - Vivek
 
 ## Satyam 
@@ -21,19 +20,25 @@
 - Sanjay
 
 ## Kapil
-- Shivam
 - Roshan
 - Rakesh
+- Arjun
+
 
 ## Bhavnesh
-- Aman
 - Deepak
-- Kirthiv
+- Vishal
+- Tapas
+- Kumar
+
+
 
 ## Anand
 - Jaiprakash
 - Tarique
 - Rahit
+- Shahid
+
 
 ## Prince
 - Riyaz
@@ -43,32 +48,32 @@
 ## Rahul
 - Biju
 - Akhilesh
+- Ramesh
 
-## Aijaj
-- Tapas
-- Kumar
-- Shahid
 
 ## Pratik
-- Ajith
+- Kirthiv
 - Yousuf
-- Yogessh New
+- Yogessh
 
 ## Rohit
-- Arjun
+- Ajith
 - Prabhakar
 - Paranthaman
 
 ## Sanjay
 - Shabid
-- Vishal
 - Deepesh
+- Chandrashekar
+- Aman
+
 
 ## Vivek
 - Atul
 - Himanshu
+- Dileep
 
 ## Shahid
 - Mohit
-
+- Bhaskar
 
