@@ -1,83 +1,47 @@
 # Mentorship tree
 
-## Pralhad
+## Satyam
 - Kapil
-- Bhavnesh
-- Rohit
-
-## Jagan
-- Vivek
-
-## Satyam 
-- Anand
-- Rahul
-
-## Yogendra
 - Pratik
-- Sanjay
+- Anand
 
 ## Kapil
-- Riyaz
-- Rahit
-
+- Paranthaman
+- Vivek
+- Vishal
+- Yogessh
 
 ## Bhavnesh
-- Vishal
-- Kumar
-- Prabakar
-
-## Anand
-- Jaiprakash
-- Tarique
-- Shahid
-
-
-## Rahul
-- Biju
+- Chandrashekhar
 - Rohit New
-
-## Pratik
-- Kirthiv
-- Yogessh
-- Aman S
-
-## Rohit
-- Ajith
-- Prabhakar
-- Paranthaman
-
-## Sanjay
-- Shabid
-- Deepesh
-- Aman
-
-
-## Vivek
-- Atul
-- Himanshu
-
-
-## Shahid
-- Mohit
-
-
-## Yogessh
-- Vivek new
+- Rahit
+- Aman Kumar
 
 ## Kirithiv
-- Bhaskar
-
-## Biju
 - Ramesh
+- Mohit
+- Himanshu
+- Dipesh
 
-## Ajith
-- Santhosh
+## Pratik
+- Biju
+- Tarique
+- Ajith
+- Prabhakar
+- Shabid
 
-## Paranthaman
-- Chandrashekar
+## Rahul Noida
+- Atul
+- S. Vivek
+- Rakesh
+- Deepak
+- Kumar
 
-## Jai prakash
-- Chandhan sahoo
 
-
-
+## Shabid
+- Bhaskar
+- Santosh
+- Roshan
+- Chandan
+- Riyaz
+- Sanjay
