@@ -1,5 +1,11 @@
 # Mentorship tree
 
+## Sanjeev
+- Kirithiv
+- Bhavnesh
+- Shabid
+- Rahul
+
 ## Satyam
 - Kapil
 - Pratik
@@ -28,7 +34,7 @@
 - Tarique
 - Ajith
 - Prabhakar
-- Shabid
+- Shahid
 
 ## Rahul Noida
 - Atul
