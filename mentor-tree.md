@@ -36,7 +36,7 @@
 - Prabhakar
 - Shahid
 
-## Rahul Noida
+## Anand Patel
 - Atul
 - S. Vivek
 - Rakesh
